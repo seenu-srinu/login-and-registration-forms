@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.heading{
+  font-family:ROBOTO;
+  color:rgba(0, 153, 255, 0.897);
+}
+
+.textfield{
+  margin:"5px";
+  padding:"5px";
+}
